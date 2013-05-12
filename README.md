@@ -1,6 +1,1 @@
-Pizza party!
-
-Parrrrtay.. pizza partay!
-
-
-MY BUDDY`
+This is Ian teaching me git.
